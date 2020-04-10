@@ -2,28 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2870b4dc-a207-4f3a-a02f-153cf0e9f21c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CounterList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CounterListAddForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CounterListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/AddCounterForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/Counter.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/DeleteConfirmationModal.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/TotalCounter.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/setupTests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CounterList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CounterList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CounterListAddForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CounterListAddForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CounterListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CounterListItem.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +44,7 @@
       <recent name="$PROJECT_DIR$/src/components" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.npm start">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -114,33 +98,57 @@
       <workItem from="1586207411348" duration="977000" />
       <workItem from="1586278945661" duration="615000" />
       <workItem from="1586290266201" duration="5408000" />
-      <workItem from="1586388154357" duration="4780000" />
+      <workItem from="1586388154357" duration="12849000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1586548724935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586548724935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1586360650264">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="307" y="25" key="CommitChangelistDialog2" timestamp="1586548724480">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586291745169" />
+    <state x="307" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586548724480" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1586549329831">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586549329831" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1586360650264" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1586360650262">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1586549329828">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586291745167" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586549329828" />
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1586360650262" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1586360650261">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1586549329827">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586291745166" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586549329827" />
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1586360650261" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1586360650263">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1586549329829">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586291745168" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586549329829" />
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1586360650263" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1586548734630">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1586548734630" />
+    <state x="450" y="329" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1586549318537">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="450" y="329" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1586549318537" />
   </component>
 </project>

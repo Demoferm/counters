@@ -2,11 +2,9 @@ import React from 'react';
 import '../App.css';
 
 
-function CounterListItem() {
+function CounterListItem(props) {
     return (
-        <div className='row'>
-            <div className='col-12'><h1>Hello!</h1></div>
-        </div>
+        <p>{props.counter.name}: <button>Test</button></p>
     );
 }
 
