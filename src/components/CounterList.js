@@ -4,11 +4,13 @@ import CounterListItem from "./CounterListItem";
 import CounterListAddForm from "./CounterListAddForm";
 
 function CounterList(props) {
-    const [counter,setCounter]= useState([]);
+    const [counter, setCounter] = useState([]);
 
     const addCounter = (e) => {
+        setCounter([...counter,e]);
 
-        setCounter([...counter],[e]);
+
+
         // let newCounter = counter;
         // newCounter.push(e);
         // // let newCouner = counter.push(e);
@@ -19,11 +21,9 @@ function CounterList(props) {
     }
 
     const deleteCounter = () => {
-        // let newCouner = counter.push(e);
-        setCounter([{
-            name: 2,
-            id: 1,
-        }]);
+        let newCounter = [...counter];
+        newCounter.pop();// let newCouner = counter.push(e);
+        setCounter(newCounter);
         //props.setCounter();
         //console.log(`counter = ${counter} NewCounter = ${newCounter}`);
         // const Counter2 = props.counter.map( el => <p>Hello!</p>);
